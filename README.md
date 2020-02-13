@@ -8,10 +8,11 @@ This dataset provides information similar to what is sent to the Ontario Fire Ma
 
 ### ANALYSIS TO PREDICT TORONTO FIRE INJURY AND FATALITY
 
+The goal of this project was to predict civilian / fire fighter injuries and fatalities using Machine learning based on the dataset from City of Toronto.
 This dataset is from the City of Toronto's Open Data Catalog. It provides information similar to what is sent to the Ontario Fire Marshal relating to all Incidents to which Toronto Fire responds. This dataset includes various field including response time intervals (dispatch, enroute, arrive and clear) and responding units.  For privacy purposes some of the personal information is not provided and for medical incidents some information has been altered. 
 
-Dataset from the City of Toronto Open Data Catalogue at:
-https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#e3d443bb-2593-2615-4972-20e24c0ab876
+Browse all the datasets from the City of Toronto Open Data Catalogue at:
+https://open.toronto.ca/#e3d443bb-2593-2615-4972-20e24c0ab876
 
 The Fire Services Incident Data is located at:
 https://open.toronto.ca/dataset/fire-services-incident-data/
